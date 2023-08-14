@@ -1,11 +1,13 @@
-const index = () => {
-  return (
-    <section>
-      <div className="container">
-        {/* code */}
-      </div>
-    </section>
-  )
-}
 
-export default index
+
+const index = () => {
+    return (
+        <section>
+            <div className="container mx-auto">
+                {/*   code  */}
+            </div>
+        </section>
+    );
+};
+
+export default index;

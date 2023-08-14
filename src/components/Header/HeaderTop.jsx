@@ -1,13 +1,13 @@
-import React from 'react'
+
 
 const HeaderTop = () => {
-  return (
-    <div>
-      <ul>
-        {/* {list} */}
-      </ul>
-    </div>
-  )
-}
+    return (
+        <div>
+            <ul>
+                {/* lists */}
+           </ul>
+        </div>
+    );
+};
 
 export default HeaderTop;

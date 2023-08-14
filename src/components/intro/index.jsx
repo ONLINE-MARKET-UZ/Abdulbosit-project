@@ -1,24 +1,23 @@
-import React from 'react'
-import IntroCarousel from './IntroCarousel'
+import IntroCarousel from "./IntroCarousel";
 
 const index = () => {
-  return (
-    <section>
-      <div className="container mx-auto">
-        <div className="intro_wrapper">
-          <ul>
-            <li></li>
-          </ul>
-          <IntroCarousel />
-          <ul>
-            <li>
-              <div className="card"> {/* cards */} </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </section>
-  )
-}
+    return (
+        <section>
+            <div className="container mx-auto">
+                <div className="intro_wrapper">
+                    <ul>
+                        <li></li>
+                    </ul>
+                    <IntroCarousel/>
+                    <ul>
+                        <li>
+                            <div className="card">{/* cards */}</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    );
+};
 
-export default index
+export default index;

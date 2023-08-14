@@ -1,11 +1,7 @@
-import React from 'react'
-
 const MultiCard = () => {
-  return (
-    <div>
-      {/* multi card */}
-    </div>
-  )
-}
+    return <div>
+            {/* code */}
+          </div>;
+};
 
-export default MultiCard
+export default MultiCard;

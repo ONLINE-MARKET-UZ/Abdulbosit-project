@@ -1,9 +1,11 @@
-const IntroCarousel = () => {
-  return (
-    <div>
-      {/* carousel */}
-    </div>
-  )
-}
 
-export default IntroCarousel
+
+const IntroCarousel = () => {
+    return (
+        <div>
+            {/* carousel */}
+        </div>
+    );
+};
+
+export default IntroCarousel;

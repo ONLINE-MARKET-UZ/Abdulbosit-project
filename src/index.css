@@ -1,32 +1,28 @@
-/* Tailwind components */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-
-/* Universal class */
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
 
-
-a{
+a {
   text-decoration: none;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
 
-body{
+body {
   font-family: sans-serif;
 }
 
-.container {
+
+.container{
   max-width: 1240px;
   margin: 0 auto;
   padding: 0 20px;

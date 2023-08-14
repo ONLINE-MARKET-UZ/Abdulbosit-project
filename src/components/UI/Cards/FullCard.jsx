@@ -1,9 +1,11 @@
-const FullCard = () => {
-  return (
-    <div>
-      {/* card */}
-    </div>
-  )
-}
 
-export default FullCard
+
+const FullCard = () => {
+    return (
+        <div>
+            {/* code */}
+        </div>
+    );
+};
+
+export default FullCard;

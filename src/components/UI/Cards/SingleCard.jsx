@@ -1,9 +1,11 @@
-const SingleCard = () => {
-  return (
-    <div>
-      {/* single card */}
-    </div>
-  )
-}
 
-export default SingleCard
+
+const SingleCard = () => {
+    return (
+        <div>
+            {/* code  */}
+        </div>
+    );
+};
+
+export default SingleCard;
