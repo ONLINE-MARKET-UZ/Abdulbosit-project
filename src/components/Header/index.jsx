@@ -1,7 +1,7 @@
-
 import HeaderTop from "./HeaderTop";
 import Navbar from "./Navbar";
 import "./style.scss";
+
 const index = () => {
     return (
         <header>

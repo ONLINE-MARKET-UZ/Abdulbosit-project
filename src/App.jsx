@@ -1,13 +1,14 @@
-// import {useState} from "react";
-// import {Button, Modal, Card, Input} from "antd";
-
+import Header from './components/Header'
+import Intro from './components/Intro'
 const App = () => {
-
-    return (
-        <div className="container mx-auto">
-
-        </div>
-    );
-};
+  return (
+    <> 
+      <div className='container mx-auto'>
+        <Header />
+        <Intro/>
+      </div>
+    </>
+  )
+}
 
 export default App;
